@@ -8,6 +8,7 @@ A *Minecraft: Java Edition* resource pack that adds Seniva language, a conlang c
 
 1. 点击右上角绿色 `Code` 按钮；
 1. 点击 `Download ZIP`；
-1. 将下载的压缩包放入资源包文件夹；
+1. 将下载的压缩包解压；
+1. 将内层的 `Bavgizugoda-ru-Seniva-main` 文件夹放入游戏资源包文件夹；
 1. 在游戏中启用此资源包；
 1. 在游戏的语言菜单中选择 `Seniva u Latin` 语言。
